@@ -1,0 +1,21 @@
+{
+  "비타민C(AM)":     { "function": "항산화·미백·콜라겐 합성 촉진",   "category": "항산화제",      "products": [] },
+  "나이아신아마이드": { "function": "장벽 강화·모공 케어·미백",        "category": "세포교환성분", "products": [] },
+  "알부틴":           { "function": "미백·기미 완화",                 "category": "항산화제",      "products": [] },
+  "트라넥사믹산":     { "function": "기미·홍반 완화",                 "category": "항산화제",      "products": [] },
+  "레티놀(PM)":       { "function": "주름 개선·세포 재생",            "category": "세포교환성분", "products": [] },
+  "펩타이드":         { "function": "콜라겐 자극·탄력 개선",          "category": "세포교환성분", "products": [] },
+  "바쿠치올":         { "function": "레티놀 대체·민감 피부 friendly", "category": "세포교환성분", "products": [] },
+  "BHA":              { "function": "각질·모공 케어·피지 조절",       "category": "각질제거",      "products": [] },
+  "AHA":              { "function": "각질 케어·톤 개선",              "category": "각질제거",      "products": [] },
+  "글리콜산":         { "function": "각질·미백·노화 케어",            "category": "각질제거",      "products": [] },
+  "살리실산":         { "function": "여드름·블랙헤드 케어",           "category": "각질제거",      "products": [] },
+  "시카":             { "function": "진정·재생·장벽 보호",            "category": "피부진정",      "products": [] },
+  "마데카소사이드":   { "function": "재생·진정",                       "category": "피부진정",      "products": [] },
+  "판테놀":           { "function": "보습·진정",                       "category": "피부진정",      "products": [] },
+  "알란토인":         { "function": "진정·자극 완화",                 "category": "피부진정",      "products": [] },
+  "티트리":           { "function": "여드름·항균",                     "category": "피부진정",      "products": [] },
+  "아젤라익산":       { "function": "여드름·홍반 완화",                "category": "피부진정",      "products": [] },
+  "카페인":           { "function": "다크서클·붓기 완화",              "category": "항산화제",      "products": [] },
+  "비타민K":          { "function": "다크서클·혈관 케어",              "category": "피부진정",      "products": [] }
+}

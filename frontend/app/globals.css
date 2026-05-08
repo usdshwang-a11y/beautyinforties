@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html, body {
+  font-family: "Malgun Gothic", "맑은 고딕", "Apple SD Gothic Neo",
+    -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans KR", sans-serif;
+  font-feature-settings: "tnum" on, "lnum" on;
+  letter-spacing: -0.01em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}

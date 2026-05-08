@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: derma-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: FRONTEND_URLS
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+    plan: free
+    healthCheckPath: /health

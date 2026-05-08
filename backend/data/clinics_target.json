@@ -1,0 +1,7 @@
+{
+  "clinics": [
+    {"id": "clinic_01", "label": "병원 A", "short_url": "https://naver.me/GeURykHe"},
+    {"id": "clinic_02", "label": "병원 B", "short_url": "https://naver.me/5zXc14lX"},
+    {"id": "clinic_03", "label": "병원 C", "short_url": "https://naver.me/GUwik9QI"}
+  ]
+}
