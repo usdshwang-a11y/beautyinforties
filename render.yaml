@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: derma-backend
+    name: beautyinforties-backend
     runtime: python
     rootDir: backend
     buildCommand: pip install -r requirements.txt
@@ -16,7 +16,7 @@ services:
     healthCheckPath: /health
 
   - type: web
-    name: derma-frontend
+    name: beautyinforties-frontend
     runtime: static
     rootDir: frontend
     buildCommand: npm install && npm run build
