@@ -14,3 +14,14 @@ services:
         sync: false
     plan: free
     healthCheckPath: /health
+
+  - type: web
+    name: derma-frontend
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: out
+    pullRequestPreviewsEnabled: false
+    envVars:
+      - key: NEXT_PUBLIC_API_BASE
+        sync: false
